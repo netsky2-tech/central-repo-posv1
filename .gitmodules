@@ -1,0 +1,6 @@
+[submodule "microservices/auth-service-backend"]
+	path = microservices/auth-service-backend
+	url = https://github.com/netsky2-tech/auth-service-backend.git
+[submodule "microservices/inventory-service-backend"]
+	path = microservices/inventory-service-backend
+	url = https://github.com/netsky2-tech/inventory-service-backend.git
